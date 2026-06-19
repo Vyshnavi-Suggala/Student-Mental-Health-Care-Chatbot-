@@ -29,23 +29,16 @@ The Student Mental Health Care Chatbot is a web-based application developed to h
 2. Completes the stress assessment questionnaire.
 3. System evaluates the responses.
 4. Stress score and percentage are calculated.
-5. Stress level is displayed as:
+5. Stress level is classified as:
    - Low Stress
    - Moderate Stress
    - High Stress
    - Severe Stress
-6. Results are stored in the database.
+6. Results are displayed to the student.
+7. Students can interact with the Mental Health Chatbot for guidance and support.
+8. Assessment results are stored in the SQLite database for future reference.
 
-## Project Structure
 
-```text
-Student-Mental-Health-Care-Chatbot/
-│
-├── app.py
-├── templates/
-├── static/
-├── README.md
-└── requirements.txt
 ```
 
 ## Installation
